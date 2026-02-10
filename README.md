@@ -3,6 +3,18 @@
 <h1 align="center">Hi 👋, I'm Abhishek G</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="http://abhishek.is-great.net/assets/image1.jpg" width="220" />
+      <br/><br/>
+      <strong>Abhishek G</strong><br/>
+      <sub>AI / ML • Full-Stack • Python</sub>
+    </td>
+  </tr>
+</table>
+
+
 ---
 <!--
 ### 🏆 GitHub Trophies
@@ -27,7 +39,7 @@
 
 - 🔭 I’m currently working on AI **Image and Text processing**
 - 🌱 I’m currently learning **Deep Learning Frameworks**
-- 👨‍💻 All of my projects are available at: [My Portfolio]([https://abhishek.my-style.in/](https://abhishek.my-style.in/)) and [http://abhishek.is-great.net/](http://abhishek.is-great.net/)
+- 👨‍💻 All of my projects are available at: [My Portfolio] ([https://abhishek.my-style.in/](https://abhishek.my-style.in/)) and [http://abhishek.is-great.net/](http://abhishek.is-great.net/)
 - 💬 Ask me about: **Python, Fullstack**
 - 📫 Reach me at: **abhiroyal482@gmail.com**
 
@@ -36,9 +48,11 @@
 ### 🌐 Connect with Me
 
 <p align="left">
+  <!--
   <a href="https://twitter.com/_prakash_24" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_prakash_24" height="30" width="40" />
   </a>
+  -->
   <a href="https://www.linkedin.com/in/abhishek-g-7774a12b5/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -90,11 +104,93 @@
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg"
+       alt="windows"
+       width="40"
+       height="40"/>
+</a>
+
   <!--
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   -->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
+
+
+<!--
+
+#### 🖥️ OS & Others
+
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+    <sub>Linux</sub>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="40"/><br/>
+    <sub>Windows</sub>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/><br/>
+    <sub>Android</sub>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/><br/>
+    <sub>Photoshop</sub>
+  </a>
+</p>
+-->
+
+
+<!--
+#### 🖥️ OS & Others
+
+<table role="presentation">
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+      </a>
+      <br/>
+      <sub>Linux</sub>
+    </td>
+
+   <td align="center" width="90" border-box="0px">
+      <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="40"/>
+      </a>
+      <br/>
+      <sub>Windows</sub>
+    </td>
+
+   <td align="center" width="90">
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
+      </a>
+      <br/>
+      <sub>Android</sub>
+    </td>
+
+  <td align="center" width="90">
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+      </a>
+      <br/>
+      <sub>Photoshop</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
