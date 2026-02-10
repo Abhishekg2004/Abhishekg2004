@@ -7,9 +7,11 @@
   <tr>
     <td align="center">
       <img src="http://abhishek.is-great.net/assets/image1.jpg" width="220" />
+     <!--
       <br/><br/>
       <strong>Abhishek G</strong><br/>
       <sub>AI / ML • Full-Stack • Python</sub>
+      -->
     </td>
   </tr>
 </table>
