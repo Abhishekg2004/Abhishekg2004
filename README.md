@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!--## Hi there 👋
+-->
 <h1 align="center">Hi 👋, I'm Abhishek G</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-2001&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 -->
----
+
 
 ### 🔥 About Me
 
